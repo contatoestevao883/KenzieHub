@@ -1,4 +1,4 @@
-<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/77f0e576-ccbd-43ed-ac2b-a4a3f787a769" width=100px>  
+<img src="https://github.com/contatoestevao883/contatoestevao883/assets/122030037/77f0e576-ccbd-43ed-ac2b-a4a3f787a769" width=80px>  
 
 # Kenzie Hub
 
